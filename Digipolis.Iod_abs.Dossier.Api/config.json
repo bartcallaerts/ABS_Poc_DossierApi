@@ -1,0 +1,11 @@
+﻿{
+  "DataStoreConfiguration": {
+    "ApiKey": "",
+    "TenantKey": "",
+    "DataTypeUrl": "",
+    "DataObjectUrl": ""
+  },
+  "TaskConfiguration": {
+    "BaseUrl":  ""
+  }
+}

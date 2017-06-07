@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Digipolis.Iod_abs.Dossier.DataProvider\Digipolis.Iod_abs.Dossier.DataProvider.csproj" />
+    <ProjectReference Include="..\Digipolis.Iod_abs.Dossier.Model\Digipolis.Iod_abs.Dossier.Model.csproj" />
+  </ItemGroup>
+
+</Project>
